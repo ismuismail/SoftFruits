@@ -1,2 +1,2 @@
 
-.gradle and.idea folders is in newfolder.zip
+.gradle and .idea folders are in newfolder.zip
